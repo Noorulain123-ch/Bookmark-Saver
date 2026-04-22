@@ -28,5 +28,5 @@ A simple and user-friendly **Bookmark Saver** application built using HTML, CSS,
 * Click the link to visit the website
  ##  Live Demo
 
-https://Noorulain123-ch.io/BookmarkSaver.html
+https://Noorulain123-ch.github.io/BookmarkSaver.html
 
